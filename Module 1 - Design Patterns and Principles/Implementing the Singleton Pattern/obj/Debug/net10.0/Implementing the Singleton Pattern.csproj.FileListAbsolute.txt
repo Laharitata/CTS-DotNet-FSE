@@ -1,0 +1,15 @@
+C:\Users\lahar\CTS DotNet FSE\Deepskilling\Module 1 - Design Patterns and Principles\Implementing the Singleton Pattern\bin\Debug\net10.0\Implementing the Singleton Pattern.exe
+C:\Users\lahar\CTS DotNet FSE\Deepskilling\Module 1 - Design Patterns and Principles\Implementing the Singleton Pattern\bin\Debug\net10.0\Implementing the Singleton Pattern.deps.json
+C:\Users\lahar\CTS DotNet FSE\Deepskilling\Module 1 - Design Patterns and Principles\Implementing the Singleton Pattern\bin\Debug\net10.0\Implementing the Singleton Pattern.runtimeconfig.json
+C:\Users\lahar\CTS DotNet FSE\Deepskilling\Module 1 - Design Patterns and Principles\Implementing the Singleton Pattern\bin\Debug\net10.0\Implementing the Singleton Pattern.dll
+C:\Users\lahar\CTS DotNet FSE\Deepskilling\Module 1 - Design Patterns and Principles\Implementing the Singleton Pattern\bin\Debug\net10.0\Implementing the Singleton Pattern.pdb
+C:\Users\lahar\CTS DotNet FSE\Deepskilling\Module 1 - Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net10.0\Implementing the Singleton Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lahar\CTS DotNet FSE\Deepskilling\Module 1 - Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net10.0\Implementing the Singleton Pattern.AssemblyInfoInputs.cache
+C:\Users\lahar\CTS DotNet FSE\Deepskilling\Module 1 - Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net10.0\Implementing the Singleton Pattern.AssemblyInfo.cs
+C:\Users\lahar\CTS DotNet FSE\Deepskilling\Module 1 - Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net10.0\Implementing the Singleton Pattern.csproj.CoreCompileInputs.cache
+C:\Users\lahar\CTS DotNet FSE\Deepskilling\Module 1 - Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net10.0\Implementing the Singleton Pattern.sourcelink.json
+C:\Users\lahar\CTS DotNet FSE\Deepskilling\Module 1 - Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net10.0\Implementing the Singleton Pattern.dll
+C:\Users\lahar\CTS DotNet FSE\Deepskilling\Module 1 - Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net10.0\refint\Implementing the Singleton Pattern.dll
+C:\Users\lahar\CTS DotNet FSE\Deepskilling\Module 1 - Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net10.0\Implementing the Singleton Pattern.pdb
+C:\Users\lahar\CTS DotNet FSE\Deepskilling\Module 1 - Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net10.0\Implementing the Singleton Pattern.genruntimeconfig.cache
+C:\Users\lahar\CTS DotNet FSE\Deepskilling\Module 1 - Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net10.0\ref\Implementing the Singleton Pattern.dll
